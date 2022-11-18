@@ -1,0 +1,12 @@
+studentName:John Smith
+collegename:Keystone College
+test1:98
+test2:97.5
+test3:89
+test4:96
+quiz1:85
+quiz2:79
+quiz3:95.5
+quiz4:100
+hwGrade:100
+attendanceGrade:100

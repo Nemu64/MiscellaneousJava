@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="isOkLabel" min="-2" pref="350" max="-2" attributes="0"/>
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="35" pref="35" max="-2" attributes="0"/>
+                              <Component id="name" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                              <Component id="nametext" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="35" pref="35" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="college" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                                      <Component id="collegetext" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="test1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="test1text" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="test2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="test2text" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="test3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="test3text" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="test4" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="test4text" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="yesButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="noButton" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="quiz1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="quiz2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="quiz3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="quiz4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel2" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="quiz1text" min="-2" max="-2" attributes="0"/>
+                          <Component id="quiz2text" min="-2" max="-2" attributes="0"/>
+                          <Component id="quiz3text" min="-2" max="-2" attributes="0"/>
+                          <Component id="quiz4text" min="-2" max="-2" attributes="0"/>
+                          <Component id="hwgradetext" min="-2" max="-2" attributes="0"/>
+                          <Component id="attendancetext" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Component id="isOkLabel" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="name" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="nametext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="quiz1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="quiz1text" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="college" min="-2" max="-2" attributes="0"/>
+                  <Component id="collegetext" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="quiz2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="quiz2text" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="test1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="test1text" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="quiz3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="quiz3text" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="test2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="test2text" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="quiz4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="quiz4text" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="test3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="test3text" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="hwgradetext" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="test4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="test4text" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="attendancetext" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="yesButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="noButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="isOkLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="24" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Is this correct?"/>
+        <Property name="focusable" type="boolean" value="false"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="yesButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Yes"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="yesButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="noButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="No"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="name">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="college">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="College:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Test 1: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Test 2: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Test 3: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Test 4: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="collegetext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="nametext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test1text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test2text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test3text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="test4text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quiz 1: "/>
+        <Property name="horizontalTextPosition" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quiz 2: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quiz 3: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quiz 4: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="HW Grade: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Attendance: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="attendancetext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hwgradetext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz4text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz3text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz2text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="quiz1text">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nothing"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
